@@ -102,6 +102,7 @@ header{
     margin: 40px 0px;
 }
 .category-heading{
+    margin-left: 10px;
     text-transform: uppercase;
     color: #3e4152;
     letter-spacing: .15em;
